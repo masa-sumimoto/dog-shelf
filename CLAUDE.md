@@ -20,6 +20,8 @@ Cowork (スケジュール実行)
 Claude デスクトップアプリ専用のタスク実行・スケジューリング機能。
 このリポジトリのルーティン業務（情報収集・Issues投稿・README更新）は Cowork で定義・管理する。
 
+**Cowork プロジェクト名**: `dog-shelf`
+
 ## Conventions
 
 - **Issues**: ニュースエントリーの媒体。1件1issue を基本とする
